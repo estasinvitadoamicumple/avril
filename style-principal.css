@@ -284,7 +284,7 @@ section {
         width: 22px;
         height: 27px;
         align-items: center;
-        margin-top: -6rem;
+        margin-top: -5rem;
         margin-left: 43%;
         animation: localizacion 1s infinite;
         ;
@@ -523,7 +523,7 @@ section {
         transform: translate(100%, 35%);
         margin-bottom: -0.5rem;
         left: -9rem;
-        margin-left: 10rem;
+        margin-left: 9rem;
         margin-right: 6rem;
         text-shadow: 2px 2px 4px rgba(95, 22, 102, 0.5);
         -webkit-text-stroke: 0.5px rgba(95, 22, 102, 0.5);
