@@ -549,7 +549,7 @@ section {
     .countdown .countdown-item {
         font-size: 2.2rem;
         transform: translate(100%, 35%);
-        margin-bottom: -0.5rem;
+        margin-bottom: -1rem;
         left: -7.5rem;
         margin-left: 9.5rem;
         margin-right: 7.5rem;
