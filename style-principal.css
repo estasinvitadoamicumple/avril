@@ -284,7 +284,7 @@ section {
         width: 22px;
         height: 27px;
         align-items: center;
-        margin-top: -7em;
+        margin-top: -6.5rem;
         margin-left: 43%;
         animation: localizacion 1s infinite;
         ;
@@ -296,7 +296,7 @@ section {
             width: 22px;
             height: 27px;
             align-items: center;
-            margin-top: -10.5rem;
+            margin-top: -10rem;
             margin-left:60%;
             animation: localizacion 1s infinite;
             ;
@@ -380,7 +380,7 @@ section {
     #gato-gif {
         width: 90px;
         height: 75px;
-        margin-top: -3.2rem;
+        margin-top: -3rem;
         margin-left: 3%;
     }
 }
@@ -523,7 +523,7 @@ section {
         transform: translate(100%, 35%);
         margin-bottom: -0.5rem;
         left: -9rem;
-        margin-left: 10.3rem;
+        margin-left: 11rem;
         margin-right: 6rem;
         text-shadow: 2px 2px 4px rgba(95, 22, 102, 0.5);
         -webkit-text-stroke: 0.5px rgba(95, 22, 102, 0.5);
@@ -536,7 +536,7 @@ section {
         font-size: 2.2rem;
         transform: translate(105%, 55%);
         left: -8rem;
-        margin-left: 10.3rem ;
+        margin-left: 11rem ;
         margin-right: 9.5rem;
         text-shadow: 2px 2px 4px rgba(95, 22, 102, 0.5);
         -webkit-text-stroke: 0.5px rgba(95, 22, 102, 0.5)   ;
