@@ -545,6 +545,20 @@ section {
     }
 }
 
+@media screen and (min-width: 351px) {
+    .countdown .countdown-item {
+        font-size: 2.2rem;
+        transform: translate(100%, 35%);
+        margin-bottom: -0.5rem;
+        left: -7.5rem;
+        margin-left: 9.5rem;
+        margin-right: 7.5rem;
+        text-shadow: 2px 2px 4px rgba(95, 22, 102, 0.5);
+        -webkit-text-stroke: 0.5px rgba(95, 22, 102, 0.5);
+        display: inline-block;
+    }
+}
+
 @media screen and (min-width: 400px) {
     .countdown .countdown-item{
         font-size: 2.2rem;
